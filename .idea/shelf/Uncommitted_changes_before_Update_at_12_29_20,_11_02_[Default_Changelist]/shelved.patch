@@ -1,0 +1,110 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"d82d36c6-94d0-413e-83b2-b6df885def05\" name=\"Default Changelist\" comment=\"name is changed\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"mavenHome\" value=\"C:\\Program Files\\New JetBrains\\IntelliJ IDEA Community Edition 2020.2.2\\plugins\\maven\\lib\\maven3\" />\n      </MavenGeneralSettings>\n    </option>\n  </component>\n  <component name=\"ProjectId\" id=\"1mIU8dK5Zq6fbpja7UEKSIq9Jlb\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n  </component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"ArquillianJUnit\" factoryName=\"\" nameIsGenerated=\"true\">\n      <option name=\"arquillianRunConfiguration\">\n        <value>\n          <option name=\"containerStateName\" value=\"\" />\n        </value>\n      </option>\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"TestMayasa\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.nextBaseCRM.tests.Mayasa.TestMayasa\" />\n      <module name=\"nextBaseCRM\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.nextBaseCRM.tests.Mayasa.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.TestMayasa\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"d82d36c6-94d0-413e-83b2-b6df885def05\" name=\"Default Changelist\" comment=\"\" />\n      <created>1609180443547</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1609180443547</updated>\n      <workItem from=\"1609180446054\" duration=\"333000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Added Esma package\">\n      <created>1609180608201</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1609180608202</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Hello guys\">\n      <created>1609259253201</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1609259253201</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Hello guys\">\n      <created>1609259259473</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1609259259473</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Hello guys 2\">\n      <created>1609259492181</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1609259492181</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"final\">\n      <created>1609259891857</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1609259891857</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"name is changed\">\n      <created>1609260216433</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1609260216433</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Added Esma package\" />\n    <MESSAGE value=\"Hello guys\" />\n    <MESSAGE value=\"Hello guys 2\" />\n    <MESSAGE value=\"final\" />\n    <MESSAGE value=\"name is changed\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"name is changed\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1609259863117\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.bottom/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1609259863117\" />\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.center\" timestamp=\"1609259863117\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.center/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1609259863117\" />\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.left\" timestamp=\"1609259863117\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.left/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1609259863117\" />\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.right\" timestamp=\"1609259863117\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state width=\"1877\" height=\"282\" key=\"GridCell.Tab.0.right/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1609259863117\" />\n    <state x=\"598\" y=\"281\" key=\"MultipleFileMergeDialog\" timestamp=\"1609260152805\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state x=\"598\" y=\"281\" key=\"MultipleFileMergeDialog/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1609260152805\" />\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1609260363536\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1609260363536\" />\n    <state x=\"4392\" y=\"253\" key=\"Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@3840.0.1920.1040\" timestamp=\"1609259326118\" />\n    <state x=\"777\" y=\"434\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1609260497977\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state x=\"777\" y=\"434\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1609260497977\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -22,7 +22,9 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d82d36c6-94d0-413e-83b2-b6df885def05" name="Default Changelist" comment="name is changed" />
++    <list default="true" id="d82d36c6-94d0-413e-83b2-b6df885def05" name="Default Changelist" comment="name is changed">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -37,13 +39,6 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="MavenImportPreferences">
+-    <option name="generalSettings">
+-      <MavenGeneralSettings>
+-        <option name="mavenHome" value="C:\Program Files\New JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+-      </MavenGeneralSettings>
+-    </option>
+   </component>
+   <component name="ProjectId" id="1mIU8dK5Zq6fbpja7UEKSIq9Jlb" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+@@ -59,17 +54,6 @@
+     <property name="aspect.path.notification.shown" value="true" />
+   </component>
+   <component name="RunManager">
+-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+-      <option name="arquillianRunConfiguration">
+-        <value>
+-          <option name="containerStateName" value="" />
+-        </value>
+-      </option>
+-      <option name="TEST_OBJECT" value="class" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+     <configuration name="TestMayasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.nextBaseCRM.tests.Mayasa.TestMayasa" />
+       <module name="nextBaseCRM" />
+@@ -83,6 +67,19 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
++      <option name="arquillianRunConfiguration">
++        <value>
++          <option name="containerStateName" value="" />
++        </value>
++      </option>
++      <option name="TEST_OBJECT" value="CLASS" />
++      <properties />
++      <listeners />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <recent_temporary>
+       <list>
+         <item itemvalue="Application.TestMayasa" />
+@@ -167,35 +164,4 @@
+     <MESSAGE value="name is changed" />
+     <option name="LAST_COMMIT_MESSAGE" value="name is changed" />
+   </component>
+-  <component name="WindowStateProjectService">
+-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609259863117">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609259863117" />
+-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1609259863117">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609259863117" />
+-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1609259863117">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609259863117" />
+-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1609259863117">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609259863117" />
+-    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1609260152805">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state x="598" y="281" key="MultipleFileMergeDialog/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260152805" />
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609260363536">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260363536" />
+-    <state x="4392" y="253" key="Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@3840.0.1920.1040" timestamp="1609259326118" />
+-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609260497977">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260497977" />
+-  </component>
+ </project>
+\ No newline at end of file
