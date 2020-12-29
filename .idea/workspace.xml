@@ -4,30 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84f8e21-cbb1-4312-bf49-357eab24329d" name="Default Changelist" comment="commit2" />
+    <list default="true" id="d82d36c6-94d0-413e-83b2-b6df885def05" name="Default Changelist" comment="Added Esma package" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1mILZaKjs8ZDnZSYrMqn3rnrKOH" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mIU8dK5Zq6fbpja7UEKSIq9Jlb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -47,38 +49,28 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e84f8e21-cbb1-4312-bf49-357eab24329d" name="Default Changelist" comment="" />
-      <created>1609176217701</created>
+      <changelist id="d82d36c6-94d0-413e-83b2-b6df885def05" name="Default Changelist" comment="" />
+      <created>1609180443547</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609176217701</updated>
-      <workItem from="1609176219728" duration="4123000" />
-      <workItem from="1609257864521" duration="825000" />
-      <workItem from="1609258703579" duration="256000" />
+      <updated>1609180443547</updated>
+      <workItem from="1609180446054" duration="333000" />
     </task>
-    <task id="LOCAL-00001" summary="commit1">
-      <created>1609178929111</created>
+    <task id="LOCAL-00001" summary="Added Esma package">
+      <created>1609180608201</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1609178929111</updated>
+      <updated>1609180608202</updated>
     </task>
-    <task id="LOCAL-00002" summary="commit2">
-      <created>1609179024185</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1609179024185</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit1" />
-    <MESSAGE value="commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
+    <MESSAGE value="Added Esma package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Esma package" />
   </component>
 </project>
