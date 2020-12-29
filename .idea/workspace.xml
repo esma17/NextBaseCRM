@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d82d36c6-94d0-413e-83b2-b6df885def05" name="Default Changelist" comment="name is changed" />
+    <list default="true" id="d82d36c6-94d0-413e-83b2-b6df885def05" name="Default Changelist" comment="Hi Jair">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nextBaseCRM/tests/Mayasa/TestMayasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nextBaseCRM/tests/Mayasa/TestMayasa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609260216433</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hello">
+      <created>1609260526098</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609260526098</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Hi Jair">
+      <created>1609260838474</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609260838474</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +181,9 @@
     <MESSAGE value="Hello guys 2" />
     <MESSAGE value="final" />
     <MESSAGE value="name is changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="name is changed" />
+    <MESSAGE value="hello" />
+    <MESSAGE value="Hi Jair" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hi Jair" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609259863117">
@@ -188,14 +206,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="281" key="MultipleFileMergeDialog/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260152805" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609260363536">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609260541727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260363536" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260541727" />
     <state x="4392" y="253" key="Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@3840.0.1920.1040" timestamp="1609259326118" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609260497977">
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609260520958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260497977" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260520958" />
   </component>
 </project>
