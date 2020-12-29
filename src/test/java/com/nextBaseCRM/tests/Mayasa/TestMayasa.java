@@ -1,4 +1,4 @@
-package com.nextBaseCRM.tests.TestMayasa;
+package com.nextBaseCRM.tests.Mayasa;
 
 public class TestMayasa {
     public static void main(String[] args) {

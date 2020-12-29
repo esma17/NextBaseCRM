@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d82d36c6-94d0-413e-83b2-b6df885def05" name="Default Changelist" comment="Hello guys 2" />
+    <list default="true" id="d82d36c6-94d0-413e-83b2-b6df885def05" name="Default Changelist" comment="final">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nextBaseCRM/tests/TestMayasa/TestMayasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nextBaseCRM/tests/Mayasa/TestMayasa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,11 +73,11 @@
       </method>
     </configuration>
     <configuration name="TestMayasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nextBaseCRM.tests.TestMayasa.TestMayasa" />
+      <option name="MAIN_CLASS_NAME" value="com.nextBaseCRM.tests.Mayasa.TestMayasa" />
       <module name="nextBaseCRM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nextBaseCRM.tests.TestMayasa.*" />
+          <option name="PATTERN" value="com.nextBaseCRM.tests.Mayasa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609259492181</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final">
+      <created>1609259891857</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609259891857</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,12 +152,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Esma package" />
     <MESSAGE value="Hello guys" />
     <MESSAGE value="Hello guys 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello guys 2" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609259863117">
@@ -167,10 +178,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609259863117" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609259768367">
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1609260152805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609259768367" />
+    <state x="598" y="281" key="MultipleFileMergeDialog/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260152805" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609260136439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609260136439" />
     <state x="4392" y="253" key="Vcs.Push.Dialog.v2/1920.0.1536.832/3840.0.1920.1040/0.0.1920.1040@3840.0.1920.1040" timestamp="1609259326118" />
   </component>
 </project>
