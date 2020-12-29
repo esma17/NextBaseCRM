@@ -8,5 +8,7 @@ public class Hello {
 
         System.out.println("can you able to see guys?");
 
+        System.out.println("how are you?");
+
     }
 }
